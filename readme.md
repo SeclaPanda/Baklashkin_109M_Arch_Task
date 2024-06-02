@@ -13,7 +13,7 @@ This project is a software architecture model for a conference management system
 The conference management system consists of a web application and a database layer. The web application is responsible for user interaction and handling API requests. The database layer stores user data, report data, and conference data. The system is designed to be scalable and easy to maintain.
 
 ## Contributors
-This project was completed by Aleksey Baklashkin, a student of the 109M group.
+This project was completed by Aleksey Baklashkin, a student of the M8O_109M_23 group.
 
 ## Contact
-For any questions or inquiries about the conference management system, please contact Aleksey Baklashkin at aleksey.baklashkin@example.com.
+For any questions or inquiries about the conference management system, please contact Aleksey Baklashkin at Telegram: https://t.me/SeclaPanda
